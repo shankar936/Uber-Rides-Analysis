@@ -39,8 +39,7 @@ Uber_Rides_Analysis/
 ---
 
 ## 📸 Dashboard Preview  
-![Uber Dashboard Screenshot]("https://github.com/shankar936/Uber-Rides-Analysis/blob/main/images/Uber_Rides_Dashboard%201.png?raw=true")
-
+![Uber Dashboard Screenshot]
 > *(Add a screenshot of your dashboard here in the `images/` folder.)*
 
 ---

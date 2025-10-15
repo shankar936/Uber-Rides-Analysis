@@ -15,10 +15,12 @@ This is an **interactive Power BI dashboard** built to explore and visualize Ube
 ---
 
 ## 🎯 Key Insights & Objectives  
-- Determine **peak ride hours** and high-demand time periods  
-- Analyze **revenue trends** across vehicles and hours  
-- Identify **popular pickup/drop-off locations**   
-- Provide actionable insights for  **pricing**, and **resource planning**
+- Monthly Revenue Trend: July recorded significantly higher revenue compared to the other two months.
+- Top Revenue-Generating Vehicle Types: Bike, Auto, and Cab Economy contributed the highest revenue.
+- Ride Success & Cancellation: Successful ride rate = 89.93%, Cancellation rate = 10.07%.
+- Top Revenue Locations: Kothanur Landing, Vijaynagar Square, HRBR Layout.
+- Revenue vs Ride Count Analysis: Banaswadi landing had (20 rides) but generated only ₹9.5k, which is lower than Kothanur Landing (23 rides) and Vijaynagar Square (20 rides).
+- Low Revenue Vehicle Types: Bike Lite and parcel had the lowest revenue. Increasing prices for Bike, Auto, and Cab Economy may increase revenue.
 
 ---
 
@@ -53,19 +55,12 @@ Uber_Rides_Analysis/
 ---
 
 ## 🧩 Features & Visual Elements  
-- Dynamic filters and slicers (e.g. by date, location, vehicle type)  
+- Dynamic filters and slicers (e.g. by date, vehicle type)  
 - KPI cards (Total Rides, Total Revenue, Avg Fare, etc.)  
 - Temporal line / area charts with trend analysis  
 - Heatmaps / density maps for spatial ride distribution  
 - Interactive tooltips and drill-downs for better exploration  
 
----
-
-## 🔍 Sample Insights  
-- Peak ride demand seen during **7 AM – 9 AM** and **5 PM – 8 PM**  
-- Urban zones with shorter but frequent rides deliver higher revenue  
-- Weekend and evening rides significantly boost earnings  
-- Insights can inform optimal **driver deployment** and **pricing strategies**
 
 ---
 
@@ -73,4 +68,4 @@ Uber_Rides_Analysis/
 
 **Shankar Madasu**  
 [LinkedIn](https://www.linkedin.com/in/shankar-m-04445b257/) | [GitHub](https://github.com/shankar936)  
-✉️ You may include your email if you like (optional)  
+[shankarmadasu7777@gmail.com)

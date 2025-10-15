@@ -39,7 +39,7 @@ Uber_Rides_Analysis/
 ---
 
 ## 📸 Dashboard Preview  
-![Uber Dashboard Screenshot]("C:\Users\Shankar\Downloads\Uber_Rides_Dashboard\Screenshot 2025-10-15 143021.png")
+![Uber Dashboard Screenshot]("https://github.com/shankar936/Uber-Rides-Analysis/blob/main/images/Uber_Rides_Dashboard%201.png?raw=true")
 
 > *(Add a screenshot of your dashboard here in the `images/` folder.)*
 
